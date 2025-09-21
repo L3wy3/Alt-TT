@@ -1,0 +1,4 @@
+<div class="md:w-1/2 text-[#FFF] p-[24px] md:py-[60px] md:px-[40px] lg:py-[133px] lg:px-[93px] bg-[#C92C93]">
+    <p class="text-3xl md:text-5xl md:leading-[58px] md:max-w-[541px] mb-[15px] md:mb-[30px]" style="font-family: 'Gilroy-Bold', sans-serif;">Turning process frustration into progress since 1996</p>
+    <p class="max-w-[541px] leading-[30px]">Recognising your frustrations with your print environment, IT services, document management & communications and finding a solution to overcome them.  Recognising your frustrations with your print environment, IT services, document management & communications and finding a solution to overcome them.</p>
+</div>

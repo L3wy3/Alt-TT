@@ -1,0 +1,55 @@
+@font-face {
+  font-display: swap;
+  font-family: 'IBMPlexMono';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/ibm-plex-mono-v19-latin-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Gilroy-Bold', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 500;
+  src: url('../fonts/urbanist-v17-latin-500.woff2') format('woff2');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 600;
+  src: url('../fonts/urbanist-v17-latin-600.woff2') format('woff2');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Gilroy';
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/Gilroy-Bold.ttf') format('tff');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 900;
+  src: url('../fonts/urbanist-v17-latin-900.woff2') format('woff2');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Urbanist';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/urbanist-v17-latin-regular.woff2') format('woff2');
+}
+
