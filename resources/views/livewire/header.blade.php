@@ -1,5 +1,5 @@
 <header class="absolute w-full z-10">
-    <div class="relative py-[30px] px-[30px] lg:px-0 max-w-[1400px] text-[#FFF] flex ml-auto mr-auto">
+    <div class="relative py-[30px] px-[30px] lg:px-[20px] max-w-[1440px] text-[#FFF] flex ml-auto mr-auto">
         <div class="w-full flex justify-between md:justify-start">
             <a href="#"><?= file_get_contents("dns-logo.svg") ?></a>
             <div id="burger" class="right-0 md:hidden">
@@ -17,7 +17,7 @@
                 </rect>
                 </svg>
             </div>
-            <div id="menu" class="px-[20px] py-[20px] md:py-[0px] md:px-[33px] flex md:relative md:block bg-white md:bg-transparent text-[#9620ce] md:text-white left-[-100%] md:right-[unset] absolute md:relative top-[120px] md:top-[unset] flex-col md:flex-row">
+            <div id="menu" class="px-[20px] py-[20px] md:py-[0px] md:px-[33px] flex md:static md:block bg-white md:bg-transparent text-[#9620ce] md:text-white left-[-100%] md:right-[unset] absolute md:relative top-[120px] md:top-[unset] flex-col md:flex-row">
                 <div class="pb-[30px] font-(family-name:IBM-Plex-Mono) text-[13px] flex-col md:flex-row flex">
                     <a href="#" class="pr-[33px] hover:underline" href="">0845 034 0895</a>
                     <a href="#" class="pr-[33px] hover:underline" href="">About us</a>
@@ -31,7 +31,7 @@
                 </div>
             </div>
         </div>
-        <div class="flex flex-col fixed md:relative bottom-[70px] right-[20px] right-0 md:right[unset] md:bottom-[unset]">
+        <div class="flex flex-col fixed md:relative bottom-[70px] right-[20px] md:right-[0px] md:right[unset] md:bottom-[unset]">
             <a class="text-right font-(family-name:IBM-Plex-Mono) text-black md:text-white font-medium text-[13px] mb-[21px] opacity-0 md:opacity-[unset]" href="">Request&nbsp;support</a>
             <a class="rounded-[5px] font-(family-name:Gilroy) font-bold text-lg capitalize py-[10px] pl-[27px] pr-[29px] bg-white text-[#48307F] hover:bg-[#C92C93] hover:text-white duration-[0.5s]" href="">Call&nbsp;me&nbsp;back</a>
         </div>

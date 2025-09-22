@@ -1,6 +1,6 @@
 <div class="relative pb-[80px] md:pb-[141px]">
     <span class="bg-black absolute left-0 h-[50%] w-full z-[-1] bottom-0"></span>
-    <div class="flex justify-between w-full max-w-[1247px] ml-auto mr-auto">
+    <div class="flex justify-between w-full max-w-[1287px] md:px-[20px] ml-auto mr-auto">
         <div id="carousel-example" class="relative w-full" data-carousel="slide">
             <div class="relative overflow-hidden rounded-lg h-[400px] md:h-[599px]">
                 @foreach ($slides as $slide)

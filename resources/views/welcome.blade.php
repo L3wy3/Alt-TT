@@ -40,7 +40,7 @@
                     <livewire:text-block-1 />
                 </div>
                 <div>
-                    <div class="flex justify-between pt-22 pb-[19px] w-full max-w-[1247px] ml-auto mr-auto items-center">
+                    <div class="flex justify-between pt-22 pb-[19px] w-full max-w-[1287px] md:px-[20px] ml-auto mr-auto items-center">
                         <p class="font-(family-name:Gilroy) font-bold leading-[58px] text-3xl">Don’t just take our word for it...</p>
                         <a class="font-(family-name:IBM-Plex-Mono) font-normal text-xs underline" href="">View all Case Studies</a>
                     </div>

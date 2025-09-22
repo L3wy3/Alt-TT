@@ -1,4 +1,4 @@
-<div class="w-full ml-auto mr-auto max-w-[1247px] flex relative z-10 mt-[-60px] flex-col lg:flex-row justify-between">
+<div class="w-full ml-auto mr-auto max-w-[1287px] md:px-[20px] flex relative z-10 mt-[-80px] flex-col lg:flex-row justify-between">
     <a class="m-[20px] md:m-[0px] min-w-[284px] group flex flex-col items-center bg-white hover:bg-[#F4207B] hover:text-[#FFF] duration-[0.5s] hover:cursor-pointer rounded-[10px] md:w-auto shadow-xl/30 text-center" style="padding: 52px 24px 30px 24px">
         <?= file_get_contents("service-1.svg") ?>
         <p class="py-[14px] text-[#F4207B] group-hover:text-[#FFF] font-(family-name:Gilroy) font-bold text-[21px] w-full">IT Services</p>
