@@ -17,8 +17,8 @@
                 </rect>
                 </svg>
             </div>
-            <div id="menu" class="px-[20px] py-[20px] md:py-[0px] md:px-[33px] flex md:static md:block bg-white md:bg-transparent text-[#9620ce] md:text-white left-[-100%] md:right-[unset] absolute md:relative top-[120px] md:top-[unset] flex-col md:flex-row">
-                <div class="pb-[30px] font-(family-name:IBM-Plex-Mono) text-[13px] flex-col md:flex-row flex">
+            <div id="menu" class="px-[20px] py-[20px] md:py-[0px] md:px-[33px] flex md:static md:block bg-white md:bg-transparent text-[#9620ce] md:text-white left-[-100%] md:right-[unset] absolute md:relative top-[120px] md:top-[unset] flex-col md:flex-row" >
+                <div class="pb-[30px] font-(family-name:IBM-Plex-Mono) text-[13px] flex-col md:flex-row flex" style="font-family: 'IBM Plex Mono', monospace;">
                     <a href="#" class="pr-[33px] hover:underline" href="">0845 034 0895</a>
                     <a href="#" class="pr-[33px] hover:underline" href="">About us</a>
                     <a href="#" class="pr-[33px] hover:underline" href="">Careers</a>

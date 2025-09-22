@@ -1,5 +1,5 @@
 <div class="ml-auto mr-auto w-full pt-11 md:pt-22">
-    <p class="ml-auto mr-auto w-full text-center text-base mb-[27px] font-(family-name:IBMPlexMono)">Our Clients include</p>
+    <p class="ml-auto mr-auto w-full text-center text-base mb-[27px]" style="font-family: 'IBM Plex Mono', monospace;">Our Clients include</p>
     <div class="flex ml-auto mr-auto w-full max-w-[1115px] justify-between items-center flex-col md:flex-row gap-[20px] md:gap-[unset] md:px-[20px]">
         <?= file_get_contents("logo-1.svg") ?>
         <?= file_get_contents("logo-2.svg") ?>

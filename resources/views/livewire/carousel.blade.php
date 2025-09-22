@@ -10,7 +10,7 @@
                             <span class="absolute bg-black/[.35] w-full h-full rounded-[10px] z-0"></span>
                             <div class="px-[20px] md:px-[60px] pt-[30px] md:pt-[85px] pb-[68px] relative z-1 <?= $slide % 2 == 0 ? "text-right flex flex-col items-end":"" ?>">
                                 <p class="px-[11px] pb-[8px] max-w-[752px] text-white text-[16px] sm:text-[24px] md:text-[33px] leading-[32px] md:leading-[41px] font-bold">“We have been delighted with our DNS partnership. The club now has direction & delivery on all document processes with a clear road map for the foreseeable future. ”</p>
-                                <p class="font-(family-name:IBM-Plex-Mono) px-[11px] mb-[216px] text-xs leading-[28px] text-white">Paul Johnson, Director<br>Nottingham Forest Football Club</p>
+                                <p style="font-family: 'IBM Plex Mono', monospace;"class="font-(family-name:IBM-Plex-Mono) px-[11px] mb-[216px] text-xs leading-[28px] text-white">Paul Johnson, Director<br>Nottingham Forest Football Club</p>
                             </div>
                         </div>
                     </div>
